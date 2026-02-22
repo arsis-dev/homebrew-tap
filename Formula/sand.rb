@@ -1,8 +1,8 @@
 class Sand < Formula
   desc "Multi-backend workspace manager for developers (Zellij/tmux/Ghostty)"
   homepage "https://github.com/arsis-dev/sand"
-  url "https://github.com/arsis-dev/sand/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "bb3f949c8ec49977d436c8145970d6a2cfb354d64199f5736f3dbf6a0756b6c6"
+  url "https://github.com/arsis-dev/sand/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "5fece225568f7caf44c0b41df97d22d6b3ea1f9117af649e91e260227faf4858"
   license "MIT"
 
   depends_on :macos
